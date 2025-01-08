@@ -1,0 +1,5 @@
+#carpeta de modulos intalados
+node_modules/
+
+#.env con credenciles
+.env
